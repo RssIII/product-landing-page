@@ -1,6 +1,14 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .nav-link {
     text-decoration: none;
     list-style: none;
+    font-weight: 900;
+    font-size: 19px;
 }
 
 #header {
